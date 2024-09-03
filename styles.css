@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-   background: white url(./imagens/bg.jpg) center center no-repeat fixed;
+   background: url(./imagens/bg.jpg) center center no-repeat fixed;
     display: flex;
     justify-content: center;
     align-items: center;
