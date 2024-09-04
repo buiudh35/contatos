@@ -156,3 +156,94 @@ header .btn-contact:hover {
 }
 
 .testimonial-item span {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+/* Contato */
+.contact {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.contact form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.contact .form-group {
+    margin-bottom: 15px;
+}
+
+.contact .form-group input,
+.contact .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+.contact .form-group textarea {
+    height: 150px;
+    resize: none;
+}
+
+.contact .btn-submit {
+    background: #FF0000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.contact .btn-submit:hover {
+    background: #cc0000;
+}
+
+.contact-info {
+    margin-top: 30px;
+    font-size: 1.2rem;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}
+
+/* Rodapé */
+footer {
+    background: #000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer .footer-logo img {
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+
+footer .footer-social a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1.2rem;
+}
+
+footer .footer-social a:hover {
+    color: #FF0000;
+}
+
+footer p {
+    margin-top: 15px;
+}
