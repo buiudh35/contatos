@@ -8,7 +8,6 @@ body {
     font-family: Arial, sans-serif;
    background: url(imagens/bg.jpg) no-repeat center fixed;
     background-size: cover;
-}
     display: flex;
     justify-content: center;
     align-items: center;
